@@ -12,4 +12,4 @@ Sugar-coat your ipsum with [Cupcake Ipsum](http://www.cupcakeipsum.com) by http:
 
 How quaint ... [Hipsum](http://hipsum.co) by http://jasoncosper.com/
 
-My personal Favourite [Aussie Bogan Ipsum](http://boganipsum.com) by http://www.rocketmen.io/
+BLOODY OATH My personal Favourite [Aussie Bogan Ipsum](http://boganipsum.com) by http://www.rocketmen.io/
