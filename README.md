@@ -13,3 +13,8 @@ Sugar-coat your ipsum with [Cupcake Ipsum](http://www.cupcakeipsum.com) by http:
 How quaint ... [Hipsum](http://hipsum.co) by http://jasoncosper.com/
 
 BLOODY OATH My personal Favourite [Aussie Bogan Ipsum](http://boganipsum.com) by http://www.rocketmen.io/
+
+Get some pork on your fork at [Bacon Ipsum](http://baconipsum.com) by https://github.com/petenelson/bacon-ipsum
+
+Don't dig on swine? Us the [Vegie Ipsum](http://veggieipsum.com) for vegetarians by http://peopledesign.com/
+
