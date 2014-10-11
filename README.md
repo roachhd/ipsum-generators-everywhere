@@ -11,3 +11,5 @@ Need some pussy? Head over to [Cat Ipsum](http://www.catipsum.com) to litter you
 Sugar-coat your ipsum with [Cupcake Ipsum](http://www.cupcakeipsum.com) by http://unerdwear.com/
 
 How quaint ... [Hipsum](http://hipsum.co) by http://jasoncosper.com/
+
+My personal Favourite [Aussie Bogan Ipsum](http://boganipsum.com) by http://www.rocketmen.io/
