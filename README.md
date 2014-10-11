@@ -19,3 +19,8 @@ Get some pork on your fork at [Bacon Ipsum](http://baconipsum.com) by https://gi
 Don't dig on swine? Vegetarians click on the [Vegie Ipsum](http://veggieipsum.com) by http://peopledesign.com/
 
 MotherFucking placeholder text! [Slipsum](http://slipsum.com) by the motherfuckers at http://twitter.com/Slipsumdotcom
+
+Baby baby baby ooh it's [Justin Beiber](http://www.jbipsum.com) by https://github.com/theverything
+
+Drop that verse at [Tupac Ipsum](http://www.tupacipsum.com) by ??
+
