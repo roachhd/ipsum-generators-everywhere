@@ -1,7 +1,8 @@
 ipsum-generators-everywhere
 ===========================
 
-######What mood are you in today? Hipster, Sammuel, bacon??? Don't use boring old Latin, get the ipsum to suit your mood.
+######What mood are you in today? Hipster, Sammuel, bacon??? 
+Cut the boring stuff & get the ipsum to suit your mood.
 
 
 ROAR ... Feeling a bit fiesty get some [Dino Ipsum](http://dinoipsum.herokuapp.com/) by https://github.com/alexnormand
